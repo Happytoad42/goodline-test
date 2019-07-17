@@ -1,3 +1,5 @@
-Database login && password
-test_5th
-aHR2x3A9km-+XCnL
+# npm install
+установка зависимостей
+
+# npm start
+запуск сервера
